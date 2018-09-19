@@ -1,0 +1,96 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Documentaci\IeC {\'o}n Pr\IeC {\'a}ctica}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Introducci\IeC {\'o}n}{2}{subsection.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}Contexto}{3}{subsubsection.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}Conjunto de Datos}{4}{subsubsection.1.1.2}
+\contentsline {subsection}{\numberline {1.2}T\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}A enfermedad}{5}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Mutaci\IeC {\'o}n}{5}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}\char `\"{}\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Se Entrega / Se Pide\char `\"{}}{6}{subsection.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Se entrega}{6}{subsubsection.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Se Pide}{7}{subsubsection.1.4.2}
+\contentsline {subsection}{\numberline {1.5}\char `\"{}\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Fecha L\IeC {\'\i }mite de Entrega\char `\"{}}{7}{subsection.1.5}
+\contentsline {section}{\numberline {2}\IeC {\'I}ndice de clases}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Lista de clases}{7}{subsection.2.1}
+\contentsline {section}{\numberline {3}Indice de archivos}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Lista de archivos}{8}{subsection.3.1}
+\contentsline {section}{\numberline {4}Documentaci\IeC {\'o}n de las clases}{8}{section.4}
+\contentsline {subsection}{\numberline {4.1}Referencia de la Clase enfermedad}{8}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Descripci\IeC {\'o}n detallada}{9}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Documentaci\IeC {\'o}n del constructor y destructor}{9}{subsubsection.4.1.2}
+\contentsline {paragraph}{\numberline {4.1.2.1}enfermedad()}{9}{paragraph.4.1.2.1}
+\contentsline {paragraph}{\numberline {4.1.2.2}enfermedad(const string \&name, const string \&\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D, const string \&database)}{9}{paragraph.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Documentaci\IeC {\'o}n de las funciones miembro}{9}{subsubsection.4.1.3}
+\contentsline {paragraph}{\numberline {4.1.3.1}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Database() const }{9}{paragraph.4.1.3.1}
+\contentsline {paragraph}{\numberline {4.1.3.2}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D() const }{9}{paragraph.4.1.3.2}
+\contentsline {paragraph}{\numberline {4.1.3.3}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Name() const }{9}{paragraph.4.1.3.3}
+\contentsline {paragraph}{\numberline {4.1.3.4}name\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Contains(const string \&str) const }{9}{paragraph.4.1.3.4}
+\contentsline {paragraph}{\numberline {4.1.3.5}operator"!=(const enfermedad \&e) const }{10}{paragraph.4.1.3.5}
+\contentsline {paragraph}{\numberline {4.1.3.6}operator$<$(const enfermedad \&e) const }{10}{paragraph.4.1.3.6}
+\contentsline {paragraph}{\numberline {4.1.3.7}operator=(const enfermedad \&e)}{10}{paragraph.4.1.3.7}
+\contentsline {paragraph}{\numberline {4.1.3.8}operator==(const enfermedad \&e) const }{11}{paragraph.4.1.3.8}
+\contentsline {paragraph}{\numberline {4.1.3.9}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Database(const string \&database)}{11}{paragraph.4.1.3.9}
+\contentsline {paragraph}{\numberline {4.1.3.10}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D(const string \&\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D)}{11}{paragraph.4.1.3.10}
+\contentsline {paragraph}{\numberline {4.1.3.11}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Name(const string \&name)}{11}{paragraph.4.1.3.11}
+\contentsline {paragraph}{\numberline {4.1.3.12}to\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}String() const }{11}{paragraph.4.1.3.12}
+\contentsline {subsubsection}{\numberline {4.1.4}Documentaci\IeC {\'o}n de los datos miembro}{11}{subsubsection.4.1.4}
+\contentsline {paragraph}{\numberline {4.1.4.1}database}{11}{paragraph.4.1.4.1}
+\contentsline {paragraph}{\numberline {4.1.4.2}ID}{12}{paragraph.4.1.4.2}
+\contentsline {paragraph}{\numberline {4.1.4.3}name}{12}{paragraph.4.1.4.3}
+\contentsline {subsection}{\numberline {4.2}Referencia de la Clase mutacion}{12}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Descripci\IeC {\'o}n detallada}{13}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Documentaci\IeC {\'o}n del constructor y destructor}{13}{subsubsection.4.2.2}
+\contentsline {paragraph}{\numberline {4.2.2.1}mutacion()}{13}{paragraph.4.2.2.1}
+\contentsline {paragraph}{\numberline {4.2.2.2}mutacion(const mutacion \&m)}{13}{paragraph.4.2.2.2}
+\contentsline {paragraph}{\numberline {4.2.2.3}mutacion(const string \&str)}{13}{paragraph.4.2.2.3}
+\contentsline {subsubsection}{\numberline {4.2.3}Documentaci\IeC {\'o}n de las funciones miembro}{13}{subsubsection.4.2.3}
+\contentsline {paragraph}{\numberline {4.2.3.1}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Caf() const }{14}{paragraph.4.2.3.1}
+\contentsline {paragraph}{\numberline {4.2.3.2}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Chr() const }{14}{paragraph.4.2.3.2}
+\contentsline {paragraph}{\numberline {4.2.3.3}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Clnsig() const }{14}{paragraph.4.2.3.3}
+\contentsline {paragraph}{\numberline {4.2.3.4}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Common() const }{14}{paragraph.4.2.3.4}
+\contentsline {paragraph}{\numberline {4.2.3.5}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Enfermedades() const }{14}{paragraph.4.2.3.5}
+\contentsline {paragraph}{\numberline {4.2.3.6}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Genes() const }{14}{paragraph.4.2.3.6}
+\contentsline {paragraph}{\numberline {4.2.3.7}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D() const }{15}{paragraph.4.2.3.7}
+\contentsline {paragraph}{\numberline {4.2.3.8}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pos() const }{15}{paragraph.4.2.3.8}
+\contentsline {paragraph}{\numberline {4.2.3.9}get\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Ref\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}alt() const }{15}{paragraph.4.2.3.9}
+\contentsline {paragraph}{\numberline {4.2.3.10}operator$<$(const mutacion \&m) const }{15}{paragraph.4.2.3.10}
+\contentsline {paragraph}{\numberline {4.2.3.11}operator=(const mutacion \&m)}{15}{paragraph.4.2.3.11}
+\contentsline {paragraph}{\numberline {4.2.3.12}operator==(const mutacion \&m) const }{16}{paragraph.4.2.3.12}
+\contentsline {paragraph}{\numberline {4.2.3.13}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Caf(const std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::vector$<$ float $>$ \&caf)}{16}{paragraph.4.2.3.13}
+\contentsline {paragraph}{\numberline {4.2.3.14}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Chr(const string \&chr)}{16}{paragraph.4.2.3.14}
+\contentsline {paragraph}{\numberline {4.2.3.15}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Clnsig(const std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::vector$<$ int $>$ \&clnsig)}{16}{paragraph.4.2.3.15}
+\contentsline {paragraph}{\numberline {4.2.3.16}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Common(const bool \&common)}{16}{paragraph.4.2.3.16}
+\contentsline {paragraph}{\numberline {4.2.3.17}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Enfermedades(const std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::vector$<$ enfermedad $>$ \&enfermedades)}{17}{paragraph.4.2.3.17}
+\contentsline {paragraph}{\numberline {4.2.3.18}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Genes(const std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::vector$<$ string $>$ \&genes)}{17}{paragraph.4.2.3.18}
+\contentsline {paragraph}{\numberline {4.2.3.19}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}I\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}D(const string \&id)}{17}{paragraph.4.2.3.19}
+\contentsline {paragraph}{\numberline {4.2.3.20}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Pos(const unsigned int \&pos)}{17}{paragraph.4.2.3.20}
+\contentsline {paragraph}{\numberline {4.2.3.21}set\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Ref\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}alt(const std\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}::vector$<$ string $>$ \&ref\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}alt)}{17}{paragraph.4.2.3.21}
+\contentsline {subsubsection}{\numberline {4.2.4}Documentaci\IeC {\'o}n de los datos miembro}{17}{subsubsection.4.2.4}
+\contentsline {paragraph}{\numberline {4.2.4.1}caf}{17}{paragraph.4.2.4.1}
+\contentsline {paragraph}{\numberline {4.2.4.2}chr}{18}{paragraph.4.2.4.2}
+\contentsline {paragraph}{\numberline {4.2.4.3}clnsig}{18}{paragraph.4.2.4.3}
+\contentsline {paragraph}{\numberline {4.2.4.4}common}{18}{paragraph.4.2.4.4}
+\contentsline {paragraph}{\numberline {4.2.4.5}enfermedades}{18}{paragraph.4.2.4.5}
+\contentsline {paragraph}{\numberline {4.2.4.6}genes}{18}{paragraph.4.2.4.6}
+\contentsline {paragraph}{\numberline {4.2.4.7}ID}{18}{paragraph.4.2.4.7}
+\contentsline {paragraph}{\numberline {4.2.4.8}pos}{18}{paragraph.4.2.4.8}
+\contentsline {paragraph}{\numberline {4.2.4.9}ref\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}\_\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}alt}{18}{paragraph.4.2.4.9}
+\contentsline {section}{\numberline {5}Documentaci\IeC {\'o}n de archivos}{18}{section.5}
+\contentsline {subsection}{\numberline {5.1}Referencia del Archivo documentacion.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}dox}{18}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Referencia del Archivo enfermedad.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}h}{18}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Documentaci\IeC {\'o}n de las funciones}{19}{subsubsection.5.2.1}
+\contentsline {paragraph}{\numberline {5.2.1.1}operator$<$$<$(ostream \&os, const enfermedad \&e)}{19}{paragraph.5.2.1.1}
+\contentsline {subsection}{\numberline {5.3}Referencia del Archivo enfermedad.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}hxx}{20}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Documentaci\IeC {\'o}n de las funciones}{20}{subsubsection.5.3.1}
+\contentsline {paragraph}{\numberline {5.3.1.1}operator$<$$<$(ostream \&os, const enfermedad \&e)}{20}{paragraph.5.3.1.1}
+\contentsline {subsection}{\numberline {5.4}Referencia del Archivo mutacion.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}h}{20}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Documentaci\IeC {\'o}n de las funciones}{21}{subsubsection.5.4.1}
+\contentsline {paragraph}{\numberline {5.4.1.1}operator$<$$<$(ostream \&, const mutacion \&)}{21}{paragraph.5.4.1.1}
+\contentsline {subsection}{\numberline {5.5}Referencia del Archivo mutacion.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}hxx}{21}{subsection.5.5}
+\contentsline {subsubsection}{\numberline {5.5.1}Documentaci\IeC {\'o}n de las funciones}{21}{subsubsection.5.5.1}
+\contentsline {paragraph}{\numberline {5.5.1.1}operator$<$$<$(ostream \&os, const mutacion \&mutacion)}{21}{paragraph.5.5.1.1}
+\contentsline {subsection}{\numberline {5.6}Referencia del Archivo principal.\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}cpp}{21}{subsection.5.6}
+\contentsline {subsubsection}{\numberline {5.6.1}Documentaci\IeC {\'o}n de las funciones}{22}{subsubsection.5.6.1}
+\contentsline {paragraph}{\numberline {5.6.1.1}cuenta\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Mutaciones\discretionary {\unhbox \voidb@x \hbox {\relax \fontsize {7}{8}\selectfont $\leftarrow \joinrel \rhook $}}{}{}Enfermedad(vector$<$ mutacion $>$ \&vm, const string \&s)}{22}{paragraph.5.6.1.1}
+\contentsline {paragraph}{\numberline {5.6.1.2}load(vector$<$ mutacion $>$ \&vm, const string \&s)}{22}{paragraph.5.6.1.2}
+\contentsline {paragraph}{\numberline {5.6.1.3}main(int argc, char $\ast $argv[])}{22}{paragraph.5.6.1.3}
+\contentsline {section}{\IeC {\'I}ndice}{23}{section*.13}

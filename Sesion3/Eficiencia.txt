@@ -1,0 +1,9 @@
+Eficiencia teórica del método find, todos menos el de ID (O(n)):
+  O(log n), esta es su eficiencia teórica ya que usamos el algoritmo con eficiencia log n en el peor de los casos, el binary_search.
+
+Eficiencia teórica del método insert:
+  Este método tiene una eficiencia en el peor de los casos O(log n) * O(n) = O(n * log n), O(log n) es el binary_search y O(n) es el lower_bound
+  el peor de los casos es cuando todos los elementos están repetidos, es la opción que vamos a evaluar. En un caso normal el algoritmo tendría menor orden pero debemos de evaluar el peor de los casos
+
+Eficiencia teórica del método erase:
+  O(n), esta es su eficiencia teórica ya que usamos el algoritmo con eficiencia log n en el peor de los casos(binary_search), una vez encontrado el elemento lo borra
